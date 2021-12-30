@@ -1,11 +1,9 @@
 # Viewing 3D Volumetric Data 
- Tutorial on Medical data reading
 
 ----
 
 src: [Viewing 3D Volumetric Data With Matplotlib
 ](https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data)
-----
 
 ## Outline
 
@@ -13,3 +11,5 @@ src: [Viewing 3D Volumetric Data With Matplotlib
 * 🛰 _A fully functional slice viewer_ with matplotlib
 * 🧰 Write the tool
 * 🙌 Clean up the workspace 
+
+The detailed implementation is in the file [3D Viewer.ipynd]().
